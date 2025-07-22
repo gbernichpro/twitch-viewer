@@ -56,7 +56,7 @@ Para utilizar este bot, você precisará criar credenciais de desenvolvedor da T
 
 ### Passo 3: Configurar as Credenciais no Projeto
 
-1. Crie um arquivo `.env` na raiz do projeto com `.env-exemple`.
+1. Crie um arquivo `.env` na raiz do projeto com `.env-exemple`. 
 2. Adicione as variáveis de ambiente:
 
    ```env
