@@ -1,0 +1,20 @@
+{
+  "name": "twitch-viewer",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "author": "gbernich",
+  "homepage": "https://gbernich.pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gbernichpro/twitch-viewer.git"
+  },
+  "dependencies": {
+    "@twurple/api": "^7.2.1",
+    "@twurple/auth": "^7.2.1",
+    "@twurple/chat": "^7.2.1",
+    "dotenv": "^16.4.7"
+  }
+}
