@@ -69,5 +69,5 @@ Para utilizar este bot, você precisará criar credenciais de desenvolvedor da T
 
 ## Licença
 
-Este projeto está licenciado sob a **Apache License 2.0** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a **MIT License.** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
