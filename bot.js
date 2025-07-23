@@ -21,7 +21,7 @@ const authProvider = new StaticAuthProvider(
 const chatClient = new ChatClient({
   authProvider,
   channels, // Usa os canais do JSON
-  logger: { minLevel: 'ERROR' } // Reduce logs
+  logger: { minLevel: 'ERROR' } // logs
 });
 
 // 4. Eventos
